@@ -1,0 +1,42 @@
+body {
+    padding-top: 20px;
+}
+
+div.container {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0 !important;
+}
+
+div.round {
+    border-radius: 8px;
+    -moz-border-radius: 9px;
+}
+
+.off_background {
+    background-color: rgba(0, 0, 0, 0.09);
+}
+
+.cool_background {
+    background-color: rgba(0, 190, 255, 0.12);
+}
+
+.heat_background {
+    background-color: rgba(255, 42, 0, 0.10);
+}
+
+.fan_background {
+    background-color: rgba(136, 0, 255, 0.10);
+}
+
+.dry_background {
+    background-color: rgba(255, 247, 0, 0.1);
+}
+
+.auto_background {
+    background-color: rgba(0, 255, 51, 0.1);
+}
+
+.error_background {
+    background-color: rgba(255, 0, 0, 0.646);
+}
