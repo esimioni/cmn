@@ -11,7 +11,7 @@ BASE_URL_V2 = 'http://' + CMNET_IP + '/v2.0/device/' + CMNET_SN
 MODES_HIDDEN = ['Dry', 'Auto']
 
 // The L1.ALL is a "virtual" entry that enables you to control all units at once.
-// If it you don't need it, you can remove it from the variable below.
+// If you don't need it, you can remove it from the variable below.
 UNIT_NAMES = {
     'L1.101': 'Living 1',
     'L1.102': 'Living 2',
