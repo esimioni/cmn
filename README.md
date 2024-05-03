@@ -25,10 +25,10 @@ Firmware 1.4.0+ is required, it won't work with earlier releases since they don'
   Example: `nc 192.168.100.170 10102`
   Then run the following commands:
 
-  `rest enable`
+  `rest enable`  
   `rest port 80`
 
-  You can, of course, choose a different port or leave it at the default.
+  You can, of course, choose a different port or leave it at the default.  
   After running the commands, reboot (porwer cycle) the CoolMasterNet.
 
 2) **Copy** `js/config-example.js` to `js/config.js` and edit its content.
