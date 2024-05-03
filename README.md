@@ -1,6 +1,6 @@
 # CoolMasterNet-Web
 
-![Web UI Preview](ui_example.png)
+![Web UI Preview](/ui-example.png)
 
 This app runs locally, there's no need for Internet connection. The communication is just between the browser and the CoolMasterNet.
 You can use a web server like Nginx, Apache, etc., or even open the `index.html` directly in a browser if that option suits you.
